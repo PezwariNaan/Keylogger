@@ -1,0 +1,14 @@
+
+
+Installed this bloated bullshit to compile the client side program:
+(This isn't on ARCH)
+
+    [2024-03-24T16:56:00+0000] [ALPM] installed mingw-w64-crt (11.0.0-1)
+    [2024-03-24T16:56:00+0000] [ALPM] installed mingw-w64-binutils (2.39-1)
+    [2024-03-24T16:56:00+0000] [ALPM] installed mingw-w64-winpthreads (11.0.0-1)
+    [2024-03-24T16:56:00+0000] [ALPM] installed mingw-w64-headers (11.0.0-1)
+    [2024-03-24T16:56:05+0000] [ALPM] installed mingw-w64-gcc (13.1.0-1)
+
+client.exe works, but a window opens when it is run. 
+ShowWindow doesn't work with console windows anymore on Windows 11. 
+
